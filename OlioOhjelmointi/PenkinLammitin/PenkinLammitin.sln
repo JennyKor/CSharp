@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenkinLammitin", "PenkinLammitin\PenkinLammitin.csproj", "{06626D49-D927-4563-BD36-1CD84A30A3D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06626D49-D927-4563-BD36-1CD84A30A3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06626D49-D927-4563-BD36-1CD84A30A3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06626D49-D927-4563-BD36-1CD84A30A3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06626D49-D927-4563-BD36-1CD84A30A3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A0B3E44-A64F-40B0-AD01-42649DD75E28}
+	EndGlobalSection
+EndGlobal

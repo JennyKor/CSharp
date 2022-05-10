@@ -1,0 +1,11 @@
+C:\Users\Jenny\Documents\Monitori\Monitori\obj\Debug\netcoreapp2.2\Monitori.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Monitori\Monitori\obj\Debug\netcoreapp2.2\Monitori.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Monitori\Monitori\obj\Debug\netcoreapp2.2\Monitori.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Monitori\Monitori\bin\Debug\netcoreapp2.2\Monitori.deps.json
+C:\Users\Jenny\Documents\Monitori\Monitori\bin\Debug\netcoreapp2.2\Monitori.runtimeconfig.json
+C:\Users\Jenny\Documents\Monitori\Monitori\bin\Debug\netcoreapp2.2\Monitori.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\Monitori\Monitori\bin\Debug\netcoreapp2.2\Monitori.dll
+C:\Users\Jenny\Documents\Monitori\Monitori\bin\Debug\netcoreapp2.2\Monitori.pdb
+C:\Users\Jenny\Documents\Monitori\Monitori\obj\Debug\netcoreapp2.2\Monitori.dll
+C:\Users\Jenny\Documents\Monitori\Monitori\obj\Debug\netcoreapp2.2\Monitori.pdb
+C:\Users\Jenny\Documents\Monitori\Monitori\obj\Debug\netcoreapp2.2\Monitori.csprojAssemblyReference.cache

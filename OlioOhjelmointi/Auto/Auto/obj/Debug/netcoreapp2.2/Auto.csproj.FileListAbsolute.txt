@@ -1,0 +1,30 @@
+C:\Users\Jenny\Documents\Auto\Auto\bin\Debug\netcoreapp2.2\Auto.deps.json
+C:\Users\Jenny\Documents\Auto\Auto\bin\Debug\netcoreapp2.2\Auto.runtimeconfig.json
+C:\Users\Jenny\Documents\Auto\Auto\bin\Debug\netcoreapp2.2\Auto.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\Auto\Auto\bin\Debug\netcoreapp2.2\Auto.dll
+C:\Users\Jenny\Documents\Auto\Auto\bin\Debug\netcoreapp2.2\Auto.pdb
+C:\Users\Jenny\Documents\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.csprojAssemblyReference.cache
+C:\Users\Jenny\Documents\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.dll
+C:\Users\Jenny\Documents\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.pdb
+C:\Users\Jenny\Documents\Olio-ohjelmointi\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.csprojAssemblyReference.cache
+C:\Users\Jenny\Documents\Olio-ohjelmointi\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Olio-ohjelmointi\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Olio-ohjelmointi\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Olio-ohjelmointi\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.dll
+C:\Users\Jenny\Documents\Olio-ohjelmointi\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\Auto\Auto\bin\Debug\netcoreapp2.2\Auto.deps.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\Auto\Auto\bin\Debug\netcoreapp2.2\Auto.runtimeconfig.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\Auto\Auto\bin\Debug\netcoreapp2.2\Auto.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\Auto\Auto\bin\Debug\netcoreapp2.2\Auto.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\Auto\Auto\bin\Debug\netcoreapp2.2\Auto.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.csproj.AssemblyReference.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\Auto\Auto\obj\Debug\netcoreapp2.2\Auto.genruntimeconfig.cache

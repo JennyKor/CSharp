@@ -1,0 +1,14 @@
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\ArvioitavaTehtava2\ArvioitavaTehtava2\bin\Debug\netcoreapp3.1\ArvioitavaTehtava2.exe
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\ArvioitavaTehtava2\ArvioitavaTehtava2\bin\Debug\netcoreapp3.1\ArvioitavaTehtava2.deps.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\ArvioitavaTehtava2\ArvioitavaTehtava2\bin\Debug\netcoreapp3.1\ArvioitavaTehtava2.runtimeconfig.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\ArvioitavaTehtava2\ArvioitavaTehtava2\bin\Debug\netcoreapp3.1\ArvioitavaTehtava2.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\ArvioitavaTehtava2\ArvioitavaTehtava2\bin\Debug\netcoreapp3.1\ArvioitavaTehtava2.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\ArvioitavaTehtava2\ArvioitavaTehtava2\bin\Debug\netcoreapp3.1\ArvioitavaTehtava2.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\ArvioitavaTehtava2\ArvioitavaTehtava2\obj\Debug\netcoreapp3.1\ArvioitavaTehtava2.csproj.AssemblyReference.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\ArvioitavaTehtava2\ArvioitavaTehtava2\obj\Debug\netcoreapp3.1\ArvioitavaTehtava2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\ArvioitavaTehtava2\ArvioitavaTehtava2\obj\Debug\netcoreapp3.1\ArvioitavaTehtava2.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\ArvioitavaTehtava2\ArvioitavaTehtava2\obj\Debug\netcoreapp3.1\ArvioitavaTehtava2.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\ArvioitavaTehtava2\ArvioitavaTehtava2\obj\Debug\netcoreapp3.1\ArvioitavaTehtava2.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\ArvioitavaTehtava2\ArvioitavaTehtava2\obj\Debug\netcoreapp3.1\ArvioitavaTehtava2.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\ArvioitavaTehtava2\ArvioitavaTehtava2\obj\Debug\netcoreapp3.1\ArvioitavaTehtava2.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\ArvioitavaTehtava2\ArvioitavaTehtava2\obj\Debug\netcoreapp3.1\ArvioitavaTehtava2.genruntimeconfig.cache

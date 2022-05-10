@@ -1,0 +1,14 @@
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\StaticEsim\StaticEsim\bin\Debug\netcoreapp3.1\StaticEsim.exe
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\StaticEsim\StaticEsim\bin\Debug\netcoreapp3.1\StaticEsim.deps.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\StaticEsim\StaticEsim\bin\Debug\netcoreapp3.1\StaticEsim.runtimeconfig.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\StaticEsim\StaticEsim\bin\Debug\netcoreapp3.1\StaticEsim.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\StaticEsim\StaticEsim\bin\Debug\netcoreapp3.1\StaticEsim.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\StaticEsim\StaticEsim\bin\Debug\netcoreapp3.1\StaticEsim.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\StaticEsim\StaticEsim\obj\Debug\netcoreapp3.1\StaticEsim.csproj.AssemblyReference.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\StaticEsim\StaticEsim\obj\Debug\netcoreapp3.1\StaticEsim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\StaticEsim\StaticEsim\obj\Debug\netcoreapp3.1\StaticEsim.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\StaticEsim\StaticEsim\obj\Debug\netcoreapp3.1\StaticEsim.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\StaticEsim\StaticEsim\obj\Debug\netcoreapp3.1\StaticEsim.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\StaticEsim\StaticEsim\obj\Debug\netcoreapp3.1\StaticEsim.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\StaticEsim\StaticEsim\obj\Debug\netcoreapp3.1\StaticEsim.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\StaticEsim\StaticEsim\obj\Debug\netcoreapp3.1\StaticEsim.genruntimeconfig.cache

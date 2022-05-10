@@ -1,0 +1,14 @@
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\OlionMetodinKutsuminenToisesta\OlionMetodinKutsuminenToisesta\bin\Debug\netcoreapp3.1\OlionMetodinKutsuminenToisesta.exe
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\OlionMetodinKutsuminenToisesta\OlionMetodinKutsuminenToisesta\bin\Debug\netcoreapp3.1\OlionMetodinKutsuminenToisesta.deps.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\OlionMetodinKutsuminenToisesta\OlionMetodinKutsuminenToisesta\bin\Debug\netcoreapp3.1\OlionMetodinKutsuminenToisesta.runtimeconfig.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\OlionMetodinKutsuminenToisesta\OlionMetodinKutsuminenToisesta\bin\Debug\netcoreapp3.1\OlionMetodinKutsuminenToisesta.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\OlionMetodinKutsuminenToisesta\OlionMetodinKutsuminenToisesta\bin\Debug\netcoreapp3.1\OlionMetodinKutsuminenToisesta.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\OlionMetodinKutsuminenToisesta\OlionMetodinKutsuminenToisesta\bin\Debug\netcoreapp3.1\OlionMetodinKutsuminenToisesta.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\OlionMetodinKutsuminenToisesta\OlionMetodinKutsuminenToisesta\obj\Debug\netcoreapp3.1\OlionMetodinKutsuminenToisesta.csproj.AssemblyReference.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\OlionMetodinKutsuminenToisesta\OlionMetodinKutsuminenToisesta\obj\Debug\netcoreapp3.1\OlionMetodinKutsuminenToisesta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\OlionMetodinKutsuminenToisesta\OlionMetodinKutsuminenToisesta\obj\Debug\netcoreapp3.1\OlionMetodinKutsuminenToisesta.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\OlionMetodinKutsuminenToisesta\OlionMetodinKutsuminenToisesta\obj\Debug\netcoreapp3.1\OlionMetodinKutsuminenToisesta.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\OlionMetodinKutsuminenToisesta\OlionMetodinKutsuminenToisesta\obj\Debug\netcoreapp3.1\OlionMetodinKutsuminenToisesta.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\OlionMetodinKutsuminenToisesta\OlionMetodinKutsuminenToisesta\obj\Debug\netcoreapp3.1\OlionMetodinKutsuminenToisesta.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\OlionMetodinKutsuminenToisesta\OlionMetodinKutsuminenToisesta\obj\Debug\netcoreapp3.1\OlionMetodinKutsuminenToisesta.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\OlionMetodinKutsuminenToisesta\OlionMetodinKutsuminenToisesta\obj\Debug\netcoreapp3.1\OlionMetodinKutsuminenToisesta.genruntimeconfig.cache

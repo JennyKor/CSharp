@@ -1,0 +1,11 @@
+P:\Olio-ohjelmointi\kuumeRajatKertaus\kuumeRajatKertaus\bin\Debug\netcoreapp2.2\kuumeRajatKertaus.deps.json
+P:\Olio-ohjelmointi\kuumeRajatKertaus\kuumeRajatKertaus\bin\Debug\netcoreapp2.2\kuumeRajatKertaus.runtimeconfig.json
+P:\Olio-ohjelmointi\kuumeRajatKertaus\kuumeRajatKertaus\bin\Debug\netcoreapp2.2\kuumeRajatKertaus.runtimeconfig.dev.json
+P:\Olio-ohjelmointi\kuumeRajatKertaus\kuumeRajatKertaus\bin\Debug\netcoreapp2.2\kuumeRajatKertaus.dll
+P:\Olio-ohjelmointi\kuumeRajatKertaus\kuumeRajatKertaus\bin\Debug\netcoreapp2.2\kuumeRajatKertaus.pdb
+P:\Olio-ohjelmointi\kuumeRajatKertaus\kuumeRajatKertaus\obj\Debug\netcoreapp2.2\kuumeRajatKertaus.csprojAssemblyReference.cache
+P:\Olio-ohjelmointi\kuumeRajatKertaus\kuumeRajatKertaus\obj\Debug\netcoreapp2.2\kuumeRajatKertaus.csproj.CoreCompileInputs.cache
+P:\Olio-ohjelmointi\kuumeRajatKertaus\kuumeRajatKertaus\obj\Debug\netcoreapp2.2\kuumeRajatKertaus.AssemblyInfoInputs.cache
+P:\Olio-ohjelmointi\kuumeRajatKertaus\kuumeRajatKertaus\obj\Debug\netcoreapp2.2\kuumeRajatKertaus.AssemblyInfo.cs
+P:\Olio-ohjelmointi\kuumeRajatKertaus\kuumeRajatKertaus\obj\Debug\netcoreapp2.2\kuumeRajatKertaus.dll
+P:\Olio-ohjelmointi\kuumeRajatKertaus\kuumeRajatKertaus\obj\Debug\netcoreapp2.2\kuumeRajatKertaus.pdb

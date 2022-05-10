@@ -1,0 +1,11 @@
+P:\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\bin\Debug\netcoreapp2.2\PenkinLammitin.deps.json
+P:\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\bin\Debug\netcoreapp2.2\PenkinLammitin.runtimeconfig.json
+P:\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\bin\Debug\netcoreapp2.2\PenkinLammitin.runtimeconfig.dev.json
+P:\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\bin\Debug\netcoreapp2.2\PenkinLammitin.dll
+P:\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\bin\Debug\netcoreapp2.2\PenkinLammitin.pdb
+P:\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\obj\Debug\netcoreapp2.2\PenkinLammitin.csprojAssemblyReference.cache
+P:\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\obj\Debug\netcoreapp2.2\PenkinLammitin.csproj.CoreCompileInputs.cache
+P:\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\obj\Debug\netcoreapp2.2\PenkinLammitin.AssemblyInfoInputs.cache
+P:\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\obj\Debug\netcoreapp2.2\PenkinLammitin.AssemblyInfo.cs
+P:\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\obj\Debug\netcoreapp2.2\PenkinLammitin.dll
+P:\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\obj\Debug\netcoreapp2.2\PenkinLammitin.pdb

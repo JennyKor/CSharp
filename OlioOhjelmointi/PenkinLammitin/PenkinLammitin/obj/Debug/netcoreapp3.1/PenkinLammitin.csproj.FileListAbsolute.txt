@@ -1,0 +1,14 @@
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\bin\Debug\netcoreapp3.1\PenkinLammitin.exe
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\bin\Debug\netcoreapp3.1\PenkinLammitin.deps.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\bin\Debug\netcoreapp3.1\PenkinLammitin.runtimeconfig.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\bin\Debug\netcoreapp3.1\PenkinLammitin.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\bin\Debug\netcoreapp3.1\PenkinLammitin.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\bin\Debug\netcoreapp3.1\PenkinLammitin.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\obj\Debug\netcoreapp3.1\PenkinLammitin.csproj.AssemblyReference.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\obj\Debug\netcoreapp3.1\PenkinLammitin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\obj\Debug\netcoreapp3.1\PenkinLammitin.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\obj\Debug\netcoreapp3.1\PenkinLammitin.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\obj\Debug\netcoreapp3.1\PenkinLammitin.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\obj\Debug\netcoreapp3.1\PenkinLammitin.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\obj\Debug\netcoreapp3.1\PenkinLammitin.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\PenkinLammitin\PenkinLammitin\obj\Debug\netcoreapp3.1\PenkinLammitin.genruntimeconfig.cache

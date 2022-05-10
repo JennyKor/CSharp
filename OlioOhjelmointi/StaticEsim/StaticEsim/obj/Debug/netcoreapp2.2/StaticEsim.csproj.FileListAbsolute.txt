@@ -1,0 +1,11 @@
+C:\Users\Jenny\Documents\StaticEsim\StaticEsim\bin\Debug\netcoreapp2.2\StaticEsim.deps.json
+C:\Users\Jenny\Documents\StaticEsim\StaticEsim\bin\Debug\netcoreapp2.2\StaticEsim.runtimeconfig.json
+C:\Users\Jenny\Documents\StaticEsim\StaticEsim\bin\Debug\netcoreapp2.2\StaticEsim.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\StaticEsim\StaticEsim\bin\Debug\netcoreapp2.2\StaticEsim.dll
+C:\Users\Jenny\Documents\StaticEsim\StaticEsim\bin\Debug\netcoreapp2.2\StaticEsim.pdb
+C:\Users\Jenny\Documents\StaticEsim\StaticEsim\obj\Debug\netcoreapp2.2\StaticEsim.csprojAssemblyReference.cache
+C:\Users\Jenny\Documents\StaticEsim\StaticEsim\obj\Debug\netcoreapp2.2\StaticEsim.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\StaticEsim\StaticEsim\obj\Debug\netcoreapp2.2\StaticEsim.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\StaticEsim\StaticEsim\obj\Debug\netcoreapp2.2\StaticEsim.AssemblyInfo.cs
+C:\Users\Jenny\Documents\StaticEsim\StaticEsim\obj\Debug\netcoreapp2.2\StaticEsim.dll
+C:\Users\Jenny\Documents\StaticEsim\StaticEsim\obj\Debug\netcoreapp2.2\StaticEsim.pdb

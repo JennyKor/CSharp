@@ -1,0 +1,11 @@
+C:\Users\Jenny\Documents\Hissi\Hissi\bin\Debug\netcoreapp2.2\Hissi.deps.json
+C:\Users\Jenny\Documents\Hissi\Hissi\bin\Debug\netcoreapp2.2\Hissi.runtimeconfig.json
+C:\Users\Jenny\Documents\Hissi\Hissi\bin\Debug\netcoreapp2.2\Hissi.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\Hissi\Hissi\bin\Debug\netcoreapp2.2\Hissi.dll
+C:\Users\Jenny\Documents\Hissi\Hissi\bin\Debug\netcoreapp2.2\Hissi.pdb
+C:\Users\Jenny\Documents\Hissi\Hissi\obj\Debug\netcoreapp2.2\Hissi.csprojAssemblyReference.cache
+C:\Users\Jenny\Documents\Hissi\Hissi\obj\Debug\netcoreapp2.2\Hissi.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Hissi\Hissi\obj\Debug\netcoreapp2.2\Hissi.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Hissi\Hissi\obj\Debug\netcoreapp2.2\Hissi.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Hissi\Hissi\obj\Debug\netcoreapp2.2\Hissi.dll
+C:\Users\Jenny\Documents\Hissi\Hissi\obj\Debug\netcoreapp2.2\Hissi.pdb

@@ -1,0 +1,14 @@
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\TVLuokka\TVLuokka\bin\Debug\netcoreapp3.1\TVLuokka.exe
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\TVLuokka\TVLuokka\bin\Debug\netcoreapp3.1\TVLuokka.deps.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\TVLuokka\TVLuokka\bin\Debug\netcoreapp3.1\TVLuokka.runtimeconfig.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\TVLuokka\TVLuokka\bin\Debug\netcoreapp3.1\TVLuokka.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\TVLuokka\TVLuokka\bin\Debug\netcoreapp3.1\TVLuokka.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\TVLuokka\TVLuokka\bin\Debug\netcoreapp3.1\TVLuokka.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\TVLuokka\TVLuokka\obj\Debug\netcoreapp3.1\TVLuokka.csproj.AssemblyReference.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\TVLuokka\TVLuokka\obj\Debug\netcoreapp3.1\TVLuokka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\TVLuokka\TVLuokka\obj\Debug\netcoreapp3.1\TVLuokka.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\TVLuokka\TVLuokka\obj\Debug\netcoreapp3.1\TVLuokka.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\TVLuokka\TVLuokka\obj\Debug\netcoreapp3.1\TVLuokka.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\TVLuokka\TVLuokka\obj\Debug\netcoreapp3.1\TVLuokka.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\TVLuokka\TVLuokka\obj\Debug\netcoreapp3.1\TVLuokka.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Olio-ohjelmointi\TVLuokka\TVLuokka\obj\Debug\netcoreapp3.1\TVLuokka.genruntimeconfig.cache
