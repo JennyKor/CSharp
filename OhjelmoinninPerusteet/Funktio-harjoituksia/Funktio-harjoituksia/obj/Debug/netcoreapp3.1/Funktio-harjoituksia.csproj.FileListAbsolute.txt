@@ -1,0 +1,14 @@
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\bin\Debug\netcoreapp3.1\Funktio-harjoituksia.exe
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\bin\Debug\netcoreapp3.1\Funktio-harjoituksia.deps.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\bin\Debug\netcoreapp3.1\Funktio-harjoituksia.runtimeconfig.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\bin\Debug\netcoreapp3.1\Funktio-harjoituksia.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\bin\Debug\netcoreapp3.1\Funktio-harjoituksia.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\bin\Debug\netcoreapp3.1\Funktio-harjoituksia.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\obj\Debug\netcoreapp3.1\Funktio-harjoituksia.csproj.AssemblyReference.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\obj\Debug\netcoreapp3.1\Funktio-harjoituksia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\obj\Debug\netcoreapp3.1\Funktio-harjoituksia.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\obj\Debug\netcoreapp3.1\Funktio-harjoituksia.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\obj\Debug\netcoreapp3.1\Funktio-harjoituksia.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\obj\Debug\netcoreapp3.1\Funktio-harjoituksia.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\obj\Debug\netcoreapp3.1\Funktio-harjoituksia.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\obj\Debug\netcoreapp3.1\Funktio-harjoituksia.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+P:\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\bin\Debug\netcoreapp2.2\kayttajanNimi.deps.json
+P:\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\bin\Debug\netcoreapp2.2\kayttajanNimi.runtimeconfig.json
+P:\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\bin\Debug\netcoreapp2.2\kayttajanNimi.runtimeconfig.dev.json
+P:\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\bin\Debug\netcoreapp2.2\kayttajanNimi.dll
+P:\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\bin\Debug\netcoreapp2.2\kayttajanNimi.pdb
+P:\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp2.2\kayttajanNimi.csproj.CoreCompileInputs.cache
+P:\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp2.2\kayttajanNimi.AssemblyInfoInputs.cache
+P:\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp2.2\kayttajanNimi.AssemblyInfo.cs
+P:\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp2.2\kayttajanNimi.dll
+P:\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp2.2\kayttajanNimi.pdb
+P:\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp2.2\kayttajanNimi.csprojAssemblyReference.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\bin\Debug\netcoreapp2.2\kayttajanNimi.deps.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\bin\Debug\netcoreapp2.2\kayttajanNimi.runtimeconfig.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\bin\Debug\netcoreapp2.2\kayttajanNimi.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\bin\Debug\netcoreapp2.2\kayttajanNimi.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\bin\Debug\netcoreapp2.2\kayttajanNimi.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp2.2\kayttajanNimi.csproj.AssemblyReference.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp2.2\kayttajanNimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp2.2\kayttajanNimi.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp2.2\kayttajanNimi.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp2.2\kayttajanNimi.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp2.2\kayttajanNimi.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp2.2\kayttajanNimi.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp2.2\kayttajanNimi.genruntimeconfig.cache

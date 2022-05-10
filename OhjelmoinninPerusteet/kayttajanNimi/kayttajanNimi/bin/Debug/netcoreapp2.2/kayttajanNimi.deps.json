@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "kayttajanNimi/1.0.0": {
+        "runtime": {
+          "kayttajanNimi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kayttajanNimi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

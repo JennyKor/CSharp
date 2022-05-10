@@ -1,0 +1,35 @@
+P:\Ohjelmoinninperusteet\LuckySeven\LuckySeven\bin\Debug\netcoreapp2.2\LuckySeven.deps.json
+P:\Ohjelmoinninperusteet\LuckySeven\LuckySeven\bin\Debug\netcoreapp2.2\LuckySeven.runtimeconfig.json
+P:\Ohjelmoinninperusteet\LuckySeven\LuckySeven\bin\Debug\netcoreapp2.2\LuckySeven.runtimeconfig.dev.json
+P:\Ohjelmoinninperusteet\LuckySeven\LuckySeven\bin\Debug\netcoreapp2.2\LuckySeven.dll
+P:\Ohjelmoinninperusteet\LuckySeven\LuckySeven\bin\Debug\netcoreapp2.2\LuckySeven.pdb
+P:\Ohjelmoinninperusteet\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.csprojAssemblyReference.cache
+P:\Ohjelmoinninperusteet\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.csproj.CoreCompileInputs.cache
+P:\Ohjelmoinninperusteet\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.AssemblyInfoInputs.cache
+P:\Ohjelmoinninperusteet\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.AssemblyInfo.cs
+P:\Ohjelmoinninperusteet\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.dll
+P:\Ohjelmoinninperusteet\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.pdb
+C:\Users\Jenny\Documents\LuckySeven\LuckySeven\bin\Debug\netcoreapp2.2\LuckySeven.deps.json
+C:\Users\Jenny\Documents\LuckySeven\LuckySeven\bin\Debug\netcoreapp2.2\LuckySeven.runtimeconfig.json
+C:\Users\Jenny\Documents\LuckySeven\LuckySeven\bin\Debug\netcoreapp2.2\LuckySeven.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\LuckySeven\LuckySeven\bin\Debug\netcoreapp2.2\LuckySeven.dll
+C:\Users\Jenny\Documents\LuckySeven\LuckySeven\bin\Debug\netcoreapp2.2\LuckySeven.pdb
+C:\Users\Jenny\Documents\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.csprojAssemblyReference.cache
+C:\Users\Jenny\Documents\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.AssemblyInfo.cs
+C:\Users\Jenny\Documents\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.dll
+C:\Users\Jenny\Documents\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\LuckySeven\LuckySeven\bin\Debug\netcoreapp2.2\LuckySeven.deps.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\LuckySeven\LuckySeven\bin\Debug\netcoreapp2.2\LuckySeven.runtimeconfig.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\LuckySeven\LuckySeven\bin\Debug\netcoreapp2.2\LuckySeven.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\LuckySeven\LuckySeven\bin\Debug\netcoreapp2.2\LuckySeven.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\LuckySeven\LuckySeven\bin\Debug\netcoreapp2.2\LuckySeven.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.genruntimeconfig.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.csproj.AssemblyReference.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\LuckySeven\LuckySeven\obj\Debug\netcoreapp2.2\LuckySeven.GeneratedMSBuildEditorConfig.editorconfig

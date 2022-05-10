@@ -1,0 +1,14 @@
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\bin\Debug\netcoreapp3.1\kayttajanNimi.exe
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\bin\Debug\netcoreapp3.1\kayttajanNimi.deps.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\bin\Debug\netcoreapp3.1\kayttajanNimi.runtimeconfig.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\bin\Debug\netcoreapp3.1\kayttajanNimi.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\bin\Debug\netcoreapp3.1\kayttajanNimi.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\bin\Debug\netcoreapp3.1\kayttajanNimi.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp3.1\kayttajanNimi.csproj.AssemblyReference.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp3.1\kayttajanNimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp3.1\kayttajanNimi.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp3.1\kayttajanNimi.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp3.1\kayttajanNimi.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp3.1\kayttajanNimi.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp3.1\kayttajanNimi.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\kayttajanNimi\kayttajanNimi\obj\Debug\netcoreapp3.1\kayttajanNimi.genruntimeconfig.cache

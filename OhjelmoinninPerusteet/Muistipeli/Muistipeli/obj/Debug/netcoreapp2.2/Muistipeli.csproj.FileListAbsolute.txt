@@ -1,0 +1,35 @@
+C:\Users\Jenny\Documents\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.csprojAssemblyReference.cache
+C:\Users\Jenny\Documents\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Muistipeli\Muistipeli\bin\Debug\netcoreapp2.2\Muistipeli.deps.json
+C:\Users\Jenny\Documents\Muistipeli\Muistipeli\bin\Debug\netcoreapp2.2\Muistipeli.runtimeconfig.json
+C:\Users\Jenny\Documents\Muistipeli\Muistipeli\bin\Debug\netcoreapp2.2\Muistipeli.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\Muistipeli\Muistipeli\bin\Debug\netcoreapp2.2\Muistipeli.dll
+C:\Users\Jenny\Documents\Muistipeli\Muistipeli\bin\Debug\netcoreapp2.2\Muistipeli.pdb
+C:\Users\Jenny\Documents\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.dll
+C:\Users\Jenny\Documents\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.pdb
+P:\Ohjelmoinninperusteet\Muistipeli\Muistipeli\bin\Debug\netcoreapp2.2\Muistipeli.deps.json
+P:\Ohjelmoinninperusteet\Muistipeli\Muistipeli\bin\Debug\netcoreapp2.2\Muistipeli.runtimeconfig.json
+P:\Ohjelmoinninperusteet\Muistipeli\Muistipeli\bin\Debug\netcoreapp2.2\Muistipeli.runtimeconfig.dev.json
+P:\Ohjelmoinninperusteet\Muistipeli\Muistipeli\bin\Debug\netcoreapp2.2\Muistipeli.dll
+P:\Ohjelmoinninperusteet\Muistipeli\Muistipeli\bin\Debug\netcoreapp2.2\Muistipeli.pdb
+P:\Ohjelmoinninperusteet\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.csprojAssemblyReference.cache
+P:\Ohjelmoinninperusteet\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.csproj.CoreCompileInputs.cache
+P:\Ohjelmoinninperusteet\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.AssemblyInfoInputs.cache
+P:\Ohjelmoinninperusteet\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.AssemblyInfo.cs
+P:\Ohjelmoinninperusteet\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.dll
+P:\Ohjelmoinninperusteet\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Muistipeli\Muistipeli\bin\Debug\netcoreapp2.2\Muistipeli.deps.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Muistipeli\Muistipeli\bin\Debug\netcoreapp2.2\Muistipeli.runtimeconfig.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Muistipeli\Muistipeli\bin\Debug\netcoreapp2.2\Muistipeli.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Muistipeli\Muistipeli\bin\Debug\netcoreapp2.2\Muistipeli.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Muistipeli\Muistipeli\bin\Debug\netcoreapp2.2\Muistipeli.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.csproj.AssemblyReference.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\Muistipeli\Muistipeli\obj\Debug\netcoreapp2.2\Muistipeli.genruntimeconfig.cache

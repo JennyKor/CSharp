@@ -1,0 +1,10 @@
+P:\Ohjelmoinninperusteet\arvioitavaTehtava2\arvioitavaTehtava2\obj\Debug\netcoreapp2.2\arvioitavaTehtava2.csproj.CoreCompileInputs.cache
+P:\Ohjelmoinninperusteet\arvioitavaTehtava2\arvioitavaTehtava2\obj\Debug\netcoreapp2.2\arvioitavaTehtava2.AssemblyInfoInputs.cache
+P:\Ohjelmoinninperusteet\arvioitavaTehtava2\arvioitavaTehtava2\obj\Debug\netcoreapp2.2\arvioitavaTehtava2.AssemblyInfo.cs
+P:\Ohjelmoinninperusteet\arvioitavaTehtava2\arvioitavaTehtava2\bin\Debug\netcoreapp2.2\arvioitavaTehtava2.deps.json
+P:\Ohjelmoinninperusteet\arvioitavaTehtava2\arvioitavaTehtava2\bin\Debug\netcoreapp2.2\arvioitavaTehtava2.runtimeconfig.json
+P:\Ohjelmoinninperusteet\arvioitavaTehtava2\arvioitavaTehtava2\bin\Debug\netcoreapp2.2\arvioitavaTehtava2.runtimeconfig.dev.json
+P:\Ohjelmoinninperusteet\arvioitavaTehtava2\arvioitavaTehtava2\bin\Debug\netcoreapp2.2\arvioitavaTehtava2.dll
+P:\Ohjelmoinninperusteet\arvioitavaTehtava2\arvioitavaTehtava2\bin\Debug\netcoreapp2.2\arvioitavaTehtava2.pdb
+P:\Ohjelmoinninperusteet\arvioitavaTehtava2\arvioitavaTehtava2\obj\Debug\netcoreapp2.2\arvioitavaTehtava2.dll
+P:\Ohjelmoinninperusteet\arvioitavaTehtava2\arvioitavaTehtava2\obj\Debug\netcoreapp2.2\arvioitavaTehtava2.pdb

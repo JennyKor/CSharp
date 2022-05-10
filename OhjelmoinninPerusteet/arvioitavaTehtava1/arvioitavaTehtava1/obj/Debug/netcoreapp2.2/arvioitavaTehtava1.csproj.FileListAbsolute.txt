@@ -1,0 +1,23 @@
+C:\Users\jenny19101\source\repos\arvioitavaTehtava1\arvioitavaTehtava1\bin\Debug\netcoreapp2.2\arvioitavaTehtava1.deps.json
+C:\Users\jenny19101\source\repos\arvioitavaTehtava1\arvioitavaTehtava1\bin\Debug\netcoreapp2.2\arvioitavaTehtava1.runtimeconfig.json
+C:\Users\jenny19101\source\repos\arvioitavaTehtava1\arvioitavaTehtava1\bin\Debug\netcoreapp2.2\arvioitavaTehtava1.runtimeconfig.dev.json
+C:\Users\jenny19101\source\repos\arvioitavaTehtava1\arvioitavaTehtava1\bin\Debug\netcoreapp2.2\arvioitavaTehtava1.dll
+C:\Users\jenny19101\source\repos\arvioitavaTehtava1\arvioitavaTehtava1\bin\Debug\netcoreapp2.2\arvioitavaTehtava1.pdb
+C:\Users\jenny19101\source\repos\arvioitavaTehtava1\arvioitavaTehtava1\obj\Debug\netcoreapp2.2\arvioitavaTehtava1.csproj.CoreCompileInputs.cache
+C:\Users\jenny19101\source\repos\arvioitavaTehtava1\arvioitavaTehtava1\obj\Debug\netcoreapp2.2\arvioitavaTehtava1.AssemblyInfoInputs.cache
+C:\Users\jenny19101\source\repos\arvioitavaTehtava1\arvioitavaTehtava1\obj\Debug\netcoreapp2.2\arvioitavaTehtava1.AssemblyInfo.cs
+C:\Users\jenny19101\source\repos\arvioitavaTehtava1\arvioitavaTehtava1\obj\Debug\netcoreapp2.2\arvioitavaTehtava1.dll
+C:\Users\jenny19101\source\repos\arvioitavaTehtava1\arvioitavaTehtava1\obj\Debug\netcoreapp2.2\arvioitavaTehtava1.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\arvioitavaTehtava1\arvioitavaTehtava1\bin\Debug\netcoreapp2.2\arvioitavaTehtava1.deps.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\arvioitavaTehtava1\arvioitavaTehtava1\bin\Debug\netcoreapp2.2\arvioitavaTehtava1.runtimeconfig.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\arvioitavaTehtava1\arvioitavaTehtava1\bin\Debug\netcoreapp2.2\arvioitavaTehtava1.runtimeconfig.dev.json
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\arvioitavaTehtava1\arvioitavaTehtava1\bin\Debug\netcoreapp2.2\arvioitavaTehtava1.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\arvioitavaTehtava1\arvioitavaTehtava1\bin\Debug\netcoreapp2.2\arvioitavaTehtava1.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\arvioitavaTehtava1\arvioitavaTehtava1\obj\Debug\netcoreapp2.2\arvioitavaTehtava1.csproj.AssemblyReference.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\arvioitavaTehtava1\arvioitavaTehtava1\obj\Debug\netcoreapp2.2\arvioitavaTehtava1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\arvioitavaTehtava1\arvioitavaTehtava1\obj\Debug\netcoreapp2.2\arvioitavaTehtava1.AssemblyInfoInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\arvioitavaTehtava1\arvioitavaTehtava1\obj\Debug\netcoreapp2.2\arvioitavaTehtava1.AssemblyInfo.cs
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\arvioitavaTehtava1\arvioitavaTehtava1\obj\Debug\netcoreapp2.2\arvioitavaTehtava1.csproj.CoreCompileInputs.cache
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\arvioitavaTehtava1\arvioitavaTehtava1\obj\Debug\netcoreapp2.2\arvioitavaTehtava1.dll
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\arvioitavaTehtava1\arvioitavaTehtava1\obj\Debug\netcoreapp2.2\arvioitavaTehtava1.pdb
+C:\Users\Jenny\Documents\Koulu\1. vuosi\Ohjelmoinnin perusteet\Ohjelmoinninperusteet\arvioitavaTehtava1\arvioitavaTehtava1\obj\Debug\netcoreapp2.2\arvioitavaTehtava1.genruntimeconfig.cache

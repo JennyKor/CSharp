@@ -1,0 +1,11 @@
+P:\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\bin\Debug\netcoreapp2.2\Funktio-harjoituksia.deps.json
+P:\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\bin\Debug\netcoreapp2.2\Funktio-harjoituksia.runtimeconfig.json
+P:\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\bin\Debug\netcoreapp2.2\Funktio-harjoituksia.runtimeconfig.dev.json
+P:\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\bin\Debug\netcoreapp2.2\Funktio-harjoituksia.dll
+P:\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\bin\Debug\netcoreapp2.2\Funktio-harjoituksia.pdb
+P:\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\obj\Debug\netcoreapp2.2\Funktio-harjoituksia.csproj.CoreCompileInputs.cache
+P:\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\obj\Debug\netcoreapp2.2\Funktio-harjoituksia.AssemblyInfoInputs.cache
+P:\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\obj\Debug\netcoreapp2.2\Funktio-harjoituksia.AssemblyInfo.cs
+P:\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\obj\Debug\netcoreapp2.2\Funktio-harjoituksia.dll
+P:\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\obj\Debug\netcoreapp2.2\Funktio-harjoituksia.pdb
+P:\Ohjelmoinninperusteet\Funktio-harjoituksia\Funktio-harjoituksia\obj\Debug\netcoreapp2.2\Funktio-harjoituksia.csprojAssemblyReference.cache
